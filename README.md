@@ -23,7 +23,7 @@ This project makes use of **Raspberry Pi** Model 4b for the computer vision part
 <img src="https://github.com/shivamshan/FIRE-DETECTION-AND-EXTINGUISHING-SYSTEM/blob/master/connec2.png">
 
 #### Note that the connection between Arduino and pump is not shown but it is present as can be seen in the above image with the help of a Single Channel Relay.
-  * ### Connection between Arduino and Raspberry Pi
+   * ### Connection between Arduino and Raspberry Pi
 The connection is between Arduino **analog pin A0** and Raspberry **GPIO pin 21.**
 <img src="https://github.com/shivamshan/FIRE-DETECTION-AND-EXTINGUISHING-SYSTEM/blob/master/connec1.png">
 
