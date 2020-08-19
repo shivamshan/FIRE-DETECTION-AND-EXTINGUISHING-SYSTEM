@@ -33,3 +33,6 @@ The connection is between Arduino **analog pin A0** and Raspberry **GPIO pin 21.
 
 ## Image sent by Raspberry Pi on fire detection
 <img src="https://github.com/shivamshan/FIRE-DETECTION-AND-EXTINGUISHING-SYSTEM/blob/master/pic.jpg">
+
+# Click on the picture below to view demonstration video
+<a href="https://drive.google.com/file/d/1ZKbGFgwxLcdaGvq_0TkWcMHmkZHxPGx0/view?usp=sharing"><img src="https://github.com/shivamshan/FIRE-DETECTION-AND-EXTINGUISHING-SYSTEM/blob/master/thumb.png"></a>
