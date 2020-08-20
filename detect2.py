@@ -9,8 +9,8 @@ from email.mime.base import MIMEBase
 from email import encoders 
 import cv2
    
-fromaddr = "shivam.stpaulsdarjeeling@gmail.com"
-toaddr = "shivam.stpaulsdarjeeling@gmail.com"
+fromaddr = "SENDERS EMAIL ID"
+toaddr = "RECEIVERS EMAIL ID"
    
 
 msg = MIMEMultipart() 
@@ -39,7 +39,7 @@ s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls() 
   
 
-s.login(fromaddr, "noobmaster*210599") 
+s.login(fromaddr, "YOUR PASSWORD") 
 
 fire_cascade = cv2.CascadeClassifier('fire_detection.xml')
 
